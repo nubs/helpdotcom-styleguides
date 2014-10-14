@@ -3,9 +3,9 @@
 Based off of [Airbnb's style guide](https://github.com/airbnb/javascript)
 
 Our linter files
-- [jshint](linters/jshint)
+- [jshintrc](linters/jshintrc)
 - [jsbeautifyrc](linters/jsbeautifyrc)
-- [SublimeLinter.sublime-settings](SublimeLinter.sublime-settings)
+- [SublimeLinter.sublime-settings](linters/SublimeLinter.sublime-settings)
 
 ## Table of Contents
 
